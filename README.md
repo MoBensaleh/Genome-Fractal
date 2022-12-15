@@ -8,3 +8,10 @@ To use the program, the user provides a genomic sequence on the standard input. 
 This project demonstrates my skills in C programming, including working with arrays, functions, and rational numbers. It also shows my ability to implement algorithms and prevent potential overflow in calculations. Additionally, the program has potential applications in bioinformatics for analyzing genomic sequences.
 
 Overall, this C program provides a useful tool for studying the characteristics of genomic sequences using CGR plots.
+
+## Intructions for Running the Application
+
+* make
+* /cgr Scale <"input sequence">output.pbm (Scale is an power of 2 integer in between 64 and 4096)
+Have to have lnetpbm library in your system.
+
