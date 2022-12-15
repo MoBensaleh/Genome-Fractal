@@ -13,5 +13,5 @@ Overall, this C program provides a useful tool for studying the characteristics 
 
 * make
 * /cgr Scale <"input sequence">output.pbm (Scale is an power of 2 integer in between 64 and 4096)
-[Must have lnetpbm library in your system.](http://netpbm.sourceforge.net/getting_netpbm.php)
+* [Must have lnetpbm library in your system.](http://netpbm.sourceforge.net/getting_netpbm.php)
 
