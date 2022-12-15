@@ -1,5 +1,5 @@
 # Genome-Fractal
-The "Chaos Game" is a popular algorithm for generating fractal patterns using numeric or discrete input sequences. By inputting a genomic sequence, a "chaos game representation" (CGR) of that sequence can be generated. This CGR can be used to study the characteristics of the genomic sequence, with applications in bioinformatics.
+The "Chaos Game" is a popular algorithm for generating fractal patterns using numeric or discrete input sequences. By inputting a genomic sequence, a "chaos game representation" (CGR) of that sequence can be generated. This CGR can be used to study the characteristics of the genomic sequence.
 
 The objective of this project is to develop a C program that can produce CGRs for genomic sequences. The program takes a single argument, a non-negative integer that is a power of 2. This value determines the size of the output CGR plot, which is N x N characters in size. The output is a text-based plot produced on the standard output. The program uses rational numbers to represent coordinates within the plot, and includes safeguards to prevent overflow during calculations.
 
